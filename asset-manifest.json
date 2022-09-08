@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/payroll/static/css/main.1e0c0882.css",
-    "main.js": "/payroll/static/js/main.b0df71fc.js",
+    "main.css": "/payroll/static/css/main.d793ac57.css",
+    "main.js": "/payroll/static/js/main.460f517d.js",
     "index.html": "/payroll/index.html",
-    "main.1e0c0882.css.map": "/payroll/static/css/main.1e0c0882.css.map",
-    "main.b0df71fc.js.map": "/payroll/static/js/main.b0df71fc.js.map"
+    "main.d793ac57.css.map": "/payroll/static/css/main.d793ac57.css.map",
+    "main.460f517d.js.map": "/payroll/static/js/main.460f517d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e0c0882.css",
-    "static/js/main.b0df71fc.js"
+    "static/css/main.d793ac57.css",
+    "static/js/main.460f517d.js"
   ]
 }
