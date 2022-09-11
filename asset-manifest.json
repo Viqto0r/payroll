@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/payroll/static/css/main.75c33ae9.css",
+    "main.css": "/payroll/static/css/main.798df135.css",
     "main.js": "/payroll/static/js/main.993bbc74.js",
     "index.html": "/payroll/index.html",
-    "main.75c33ae9.css.map": "/payroll/static/css/main.75c33ae9.css.map",
+    "main.798df135.css.map": "/payroll/static/css/main.798df135.css.map",
     "main.993bbc74.js.map": "/payroll/static/js/main.993bbc74.js.map"
   },
   "entrypoints": [
-    "static/css/main.75c33ae9.css",
+    "static/css/main.798df135.css",
     "static/js/main.993bbc74.js"
   ]
 }
